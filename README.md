@@ -1,5 +1,9 @@
 # StrandHogg attack recents
 
+<p align="center">
+  <img src="strandhogg_attack_recents.gif" alt="Strandhogg recents attack in action" width="400"/>
+</p>
+
 ## App under attack
 - `android:launchMode="singleTask"`
 
